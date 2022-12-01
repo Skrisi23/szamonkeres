@@ -21,3 +21,13 @@ print("A két szám különbsége:", (szam - szam2))
 print("A két szám szorzata:" ,(szam * szam2))
 print("A két szám hányadosa:" (szam % szam2))
 """
+
+#4feladat
+"""
+szam = int(input("Kérek egy számot"))
+szam2 = int(input("Kérek még egy számot"))
+c =(2* szam + 3*szam2)
+d =(2* szam - 3*szam2)
+print("C áltozó:"(c))
+print("D változó: "(d))
+"""
