@@ -6,7 +6,18 @@ print("Üdvözöllek")
 print(nev1, nev2)
 """
 #2feladat
-
+"""
 szam = int(input("Irj be egy számot: "))
 print("A számot megelőző :", (szam - 1))
 print("A számmot rákövetkező :", (szam + 1))
+"""
+
+#3feladat
+"""
+szam = int(input("Kérek egy számot"))
+szam2 = int(input("Kérek még egy számot"))
+print("A két szám összege:",(szam + szam2))
+print("A két szám különbsége:", (szam - szam2))
+print("A két szám szorzata:" ,(szam * szam2))
+print("A két szám hányadosa:" (szam % szam2))
+"""
