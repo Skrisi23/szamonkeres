@@ -90,6 +90,7 @@ blockquote{
     list-style-type: none;
     padding-left: 0px;
     margin-left: 0px;
+    
 }
 
 #halLista li {
@@ -116,3 +117,7 @@ blockquote{
     text-align: center;
 }
 
+.nagy{
+    float: right;
+    text-align: right;
+}
